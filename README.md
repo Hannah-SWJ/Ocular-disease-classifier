@@ -13,3 +13,13 @@ ODIR-5K 데이터셋을 이용한 안저 질환 분류기
 
 1. only used -> A / C / G / M / N
 2. data size -> 512*512
+
+## Sota model
+- ResNet50 V2
+- Xception
+- EfficientNet B0
+- MobileNet V1
+- DenseNet121
+
+## Embedded board
+- Latte Panda
