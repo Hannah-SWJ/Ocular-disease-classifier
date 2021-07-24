@@ -12,6 +12,7 @@ ODIR-5K 데이터셋을 이용한 안저 질환 분류기
 - Other diseases/abnormalities (O)
 
 1. only used -> A / C / G / M / N
+   (5 class used because of the data unbalance)
 
 2. data size -> 512*512
 
